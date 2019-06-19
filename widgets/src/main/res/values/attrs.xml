@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VerificationCodeView">
+        <attr name="cursorColor" format="color" />
+        <attr name="bottomLineNormalColor" format="color" />
+        <attr name="bottomLineSelectColor" format="color" />
+        <attr name="textNum" format="integer" />
+        <attr name="textMargin" format="dimension" />
+        <attr name="bottomLineHeight" format="dimension" />
+    </declare-styleable>
+</resources>
